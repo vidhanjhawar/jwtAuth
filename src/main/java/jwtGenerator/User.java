@@ -1,6 +1,6 @@
 package jwtGenerator;
 
-public class user {
+public class User {
 	private String username;
 	private String password;
 	public String getPassword() {
